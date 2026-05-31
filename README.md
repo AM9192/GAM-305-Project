@@ -231,3 +231,11 @@ One tool or technique that caused difficulty was importing and attaching custom 
 Our initial analysis of the game design document helped us decide to focus on tools and techniques that supported rapid prototyping. Since the game is a haunted hotel escape prototype, we needed systems for exploration, locked doors, keys, hazards, health, pickups, and win/loss conditions. This made Unreal Blueprints a good choice because they allowed us to build and test these mechanics quickly. It also made GitHub and Discord important because the project required multiple teammates to work on different parts of the level and combine their work into one playable Alpha build.
 
 The current Alpha build uses some placeholder meshes for interactable objects, including keys, the hotel manager, haunted guest, and haunted object. The gameplay functionality is implemented and testable, while final mesh replacement, pivot/origin cleanup, and visual polish are planned for the Beta milestone. We also plan to implement HUD capabilities for the Beta phase, as we didn't want to make the scope of the Alpha too large and instead focused on mechanics and gameplay flow. The Alpha now includes a playable win condition, where the player can escape after obtaining the manager key, and a lose condition, where the player receives a game over after reaching zero health twice.
+
+The Alpha Windows packaged build is too large to store directly in GitHub.
+
+Branch:
+Final-Alpha
+
+Build file:
+TeamBlue_GAM305_Alpha.zip
