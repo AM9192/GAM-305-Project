@@ -239,3 +239,19 @@ Final-Alpha
 
 Build file:
 TeamBlue_GAM305_Alpha.zip
+
+# **Module Five Project Log - Team Reflection**
+
+## **Callie Kayrouz**
+
+I think our team made a lot of progress during the Beta stage. One thing that went well was that we were able to take the basic gameplay systems from Alpha and continue building on them. The hotel feels much more complete now, with more room details, signs, character models, objectives, and environmental improvements. I also think our team communicated well and was willing to help each other when problems came up.
+
+One thing that definitely did not go well was dealing with GitHub and Unreal Engine issues. We ran into problems with Git LFS, merge conflicts, assets not saving correctly, and difficulties sharing large files. A lot of time that could have been spent developing the game ended up being spent troubleshooting technical issues. Even though it was frustrating, we worked through the problems and kept moving forward.
+
+We used feedback from the previous stage by focusing on the areas we knew needed improvement. During Alpha, we focused mostly on gameplay functionality and making sure the game could actually be completed. For Beta, we spent more time improving the environment, adding assets, replacing placeholders, and making the hotel feel more like a real game instead of just a prototype.
+
+If I could improve one aspect of our development process, I would probably spend more time organizing assets and planning. I should have been reusing materials and making less poly-heavy assets. A lot of our biggest problems came from version control and file management rather than the actual game development itself. Having a more organized workflow from the start would have saved us a lot of stress.
+
+One tool that I did not find especially helpful was Git LFS for large Unreal Engine files. While it works in theory, the storage limits and budget issues caused problems for the entire team. Discord was probably the most useful tool because it made it easy for us to communicate, ask questions, and solve problems together.
+
+I think our project is in a good spot for the Beta state. For the final release, our focus should be on polishing the environment, adding animations and sounds, fixing bugs, and ensuring that the overall experience feels complete and polished.
