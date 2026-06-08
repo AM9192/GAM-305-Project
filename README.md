@@ -239,3 +239,18 @@ Final-Alpha
 
 Build file:
 TeamBlue_GAM305_Alpha.zip
+
+# **Module Five Project Log - Team Reflection**
+## **Callie Kayrouz**
+
+I think our team made a lot of progress during the Beta stage. We added more details to the hotel, worked on character models, added signs, improved objectives, and continued building the game. I think one thing that went well was that everyone was willing to help when problems came up and we kept making progress even when things got frustrating.
+
+One thing that did not go well was dealing with GitHub and Unreal Engine issues. We had problems with Git LFS, saving assets, sharing files, and cloning the project. These issues slowed us down and took time away from actual development. Even though it was frustrating, we were able to work through the problems and continue developing the game.
+
+We used feedback from the Alpha stage by focusing on making the game feel more complete. During Alpha, we focused on getting the gameplay working. During Beta, we spent more time improving the environment, adding assets, replacing placeholders, and making the hotel look and feel better.
+
+If I could improve our process, I would make sure we had a better system for sharing files and managing GitHub from the start. A lot of our issues came from file management.
+
+The tool that caused the most problems was Git LFS because of the storage and budget limits. The tool that helped the most was Discord and our communication, we asked questions, and solve problems together.
+
+I think our project is now in a good Beta state. The player can move through the hotel, complete objectives, collect items, and progress through the game. For the Final Release, we plan to improve lighting, add more polish, finish any remaining assets, fix bugs, and make the game feel more complete.
