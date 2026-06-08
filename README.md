@@ -253,4 +253,8 @@ If I could improve our process, I would make sure we had a better system for sha
 
 The tool that caused the most problems was Git LFS because of the storage and budget limits. The tool that helped the most was Discord and our communication, we asked questions, and solve problems together.
 
+## **Kay Bryan**
+
+Callie pretty much summed up everything I wanted to say. This week has taught me that I don't understand git as well as I thought I did, and I take full responsibility for causing the entire team issues on that front. I'm definitely going to do more research on git so I don't exceed our budget again.
+
 I think our project is now in a good Beta state. The player can move through the hotel, complete objectives, collect items, and progress through the game. For the Final Release, we plan to improve lighting, add more polish, finish any remaining assets, fix bugs, and make the game feel more complete.
