@@ -273,4 +273,18 @@ If I could do something differently, I would set clearer rules for source contro
 
 Some tools were helpful, but some were also frustrating. GitHub and Git LFS were necessary because we needed a way to share the Unreal project, but they were difficult to work with because Unreal assets do not merge cleanly. Branch merging was not very helpful once the project had multiple versions of maps and Blueprints. It worked better to restore specific assets instead of bringing in whole branches. The README plan and testing checklist were helpful because they gave us something to follow, but we could have used GitHub Issues and clearer task tracking more consistently.
 
-At this point, the Beta stage is complete. We have a packaged Beta build with the core hotel escape flow working. For the Final Release, the schedule should focus on polish and stability rather than adding a bunch of new systems. The next step is to test the packaged Beta, list any remaining issues, and fix the most important bugs first. After that, we can focus on smaller improvements like clearer prompts, better enemy balance, lighting, sound, UI polish, and the final escape sequence. To stay on schedule, we should keep the working Beta as a backup, avoid risky branch merges, and package another build earlier in the week before the Final Release deadline.
+## Module Six Project Log - Team Reflection
+
+### Callie Kayrouz
+
+For the final stage, most of my work was focused on getting missing assets back into the project and helping with final polish. A lot of the map layout and main assets were already completed by this point, so there was not as much new level design work needed on my part. I focused on making sure the project had the visual pieces it was missing like the doors and character animations.
+
+One part of the plan that went well was that the project already had a strong layout and most of the hotel areas were finished. The rooms, ballroom, office, storage room, and main hotel path were already built enough for the game to feel complete.
+
+One part that went wrong was still dealing with missing assets and GitHub issues. Some meshes and references disappeared  so we had to reimport things and make sure the right branch had the correct files. This was stressful because the project was already close to the final deadline, and small file issues could cause bigger problems in Unreal.
+
+If I could improve the collaboration process, I would want the team to have a clearer system for branches and file sharing from the beginning. A lot of problems came from people working on different versions or not knowing which branch was the correct one. I think it is really important that everyone knows exactly where to pull from and where to push their work.
+
+One tool that was not always helpful was GitHub with Unreal Engine files. GitHub itself is useful, but Unreal assets are hard to manage because they are large and do not merge easily. Git LFS and branches caused a lot of confusion during the project. Discord was more helpful because we could quickly ask questions, explain what was missing, and figure out what still needed to be fixed.
+
+I think the final stage was mostly about cleaning up and making sure the game was playable. Since the layout and assets were mostly complete, my final work focused on reimporting missing assets, adding animations and sounds, and ensuring the hotel still looked complete. Even though we had issues with missing files, the project came together better than in the earlier stages.
